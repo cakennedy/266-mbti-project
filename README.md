@@ -9,7 +9,6 @@ Directory  |  Contents
 background | This directory contains interim and scratch versions of our work, created throughout the project.
 dataprep   | This directory contains data preparation files, including EDA of the database, data cleaning and resampling.
 models     | This directory contains implementation of our base, BERT, SetFit and T5 models.  Notebooks show model train/validation/testing and analysis.
-models     | This directory contains implementation of our base, BERT, SetFit and T5 models.  Notebooks show model train/validation/testing and analysis.
 models/base  | This directory contains implementation & analysis of our base model.
 models/BERT  | This directory contains implementation & analysis of our BERT model.  It shows several evolving versions of the model.
 models/BERT/featureimpact  | This directory contains our BERT model run with different subsets of features to determine the relative impact of our feature set.
