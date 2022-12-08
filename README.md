@@ -13,4 +13,4 @@ models/base  | This directory contains implementation & analysis of our base mod
 models/BERT  | This directory contains implementation & analysis of our BERT model.  It shows several evolving versions of the model.
 models/BERT/featureimpact  | This directory contains our BERT model run with different subsets of features to determine the relative impact of our feature set.
 models/SetFit  | This directory contains implementation & analysis of our SetFit model.  
-models/T5  | This directory contains implementation analysis of our T5 model.
+models/T5  | This directory contains implementation & analysis of our T5 model.
